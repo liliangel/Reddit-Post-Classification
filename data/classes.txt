@@ -1,0 +1,10 @@
+{"books": 0 ,
+"chemistry": 1,
+"CryptoTechnology": 2,
+"Dogtraining": 3,
+"EatCheapAndHealthy": 4,
+"family": 5,
+"HomeImprovement": 6,
+"languages": 7,
+"musictheory": 8,
+"MachineLearning": 9}
